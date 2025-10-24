@@ -1,2 +1,3 @@
 cod-assets.cdn.callofduty.com
 cod-assets.cdn.callofduty.com.edgesuite.net
+cdn-1302064167.file.myqcloud.com
