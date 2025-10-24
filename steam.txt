@@ -1,1 +1,5 @@
 lancache.steamcontent.com
+cache1-dxb1.steamcontent.com
+cache2-dxb1.steamcontent.com
+cache3-dxb1.steamcontent.com
+cache4-dxb1.steamcontent.com
